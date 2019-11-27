@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="창문 수동/자동 선택"
+        android:icon="@drawable/ic_launcher_background"
+        android:id="@+id/choose_opt"
+        />
+
+</menu>
